@@ -16,26 +16,6 @@ An AI-powered full-stack Movie Recommendation System that recommends similar mov
 
 ---
 
-## 🖼️ Demo
-
-> **Live Demo:** *(Add Vercel Link Here)*
-
-> **API Documentation:** *(Add Render/FastAPI Link Here)*
-
----
-
-## 📸 Screenshots
-
-### Home Page
-
-<img src="screenshots/home.png" width="900"/>
-
-### Recommendation Results
-
-<img src="screenshots/results.png" width="900"/>
-
----
-
 ## 🧠 How It Works
 
 1. User enters a movie title.
