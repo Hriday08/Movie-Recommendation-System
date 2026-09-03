@@ -170,7 +170,7 @@ Computer Science Undergraduate
 
 📧 hridaysiddharth08@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/hriday-siddharth/
+💼 LinkedIn: https://www.linkedin.com/in/hriday-siddharth/ 
 
 
 ---
